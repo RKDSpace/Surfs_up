@@ -14,3 +14,10 @@ Another interesting data point is looking at the maximum temperatures. The maxim
 ![December Summary Stats](https://user-images.githubusercontent.com/106719954/185836988-207d5a65-646d-4e4e-9332-2936fdccff26.png)
 
 The results I would go over is based on the number of days. June has 30 days and December has 31 days, but the counts are still only off by 200 which is a good margin to represent that we have accurate as possible information from our dataset. 
+
+# Summary
+Although the results provide interesting data, further analysis could have been done. I would be interested to wrangle the data further and find out more about the humidity ranges. Are the weather data true temperatures, or do they consider the humidity rate? A humid 65 could turn out to be a warm day and tropical places such as Hawaii tend to be more on the humid side. 
+
+Another data set I would look at is the minimum temperatures. They are in the colder range, but do they stay this way year over year. How many years would we want to look at? Then it would also be important to rule out any months that had anomalies in the temperatures. 
+
+My final point that I think could have been taken further is looking at the temperatures for the whole year and then plot them on a scatter plot. If this data would get too cumbersome, I would divide it up by seasons. This would allow the business to see the different months over the year and the trends in temperatures. Maybe in the winter the temperatures get too cold, and they might want to shut down for the season. 
